@@ -6,7 +6,7 @@
     "gulp-caz-pages",
     "zce"
   ],
-  "repository": "zce/gulp-caz-pages",
+  "repository": "git@github.com:xzxwsk/gulp-demo.git",
   "license": "MIT",
   "author": "xzxwsk <xzxwsk@163.com> (http://www.xxx.com)",
   "main": "lib/index.js",
