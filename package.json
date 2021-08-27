@@ -1,12 +1,13 @@
 {
   "name": "gulp-caz-pages",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Awesome node modules.",
   "keywords": [
     "gulp-caz-pages",
     "zce"
   ],
-  "repository": "git@github.com:xzxwsk/gulp-demo.git",
+  "private": false,
+  "repository": "git@github.com:xzxwsk/gulp-caz-pages.git",
   "license": "MIT",
   "author": "xzxwsk <xzxwsk@163.com> (http://www.xxx.com)",
   "main": "lib/index.js",
